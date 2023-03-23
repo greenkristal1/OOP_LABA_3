@@ -98,6 +98,31 @@ namespace LABA3_OOP
 
             }
         }
+        public Base getObject(int index)
+        {
+
+            return arr[index];
+
+        }
+
+        public void deleteObject(int index)
+        {
+            if (index < size)
+            {
+                Base[] temp = new Base[size - 1];
+                for (int i = 0; i < index; i++)
+                {
+                    temp[i] = arr[i];
+                }
+                size--;
+                for (int i = index; i < size; i++)
+                {
+                    temp[i] = arr[i + 1];
+                }
+
+                arr = temp;
+            }
+        }
     }
 
 

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LABA3_OOP/1.0.0": {
+        "runtime": {
+          "LABA3_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LABA3_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

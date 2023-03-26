@@ -1,0 +1,16 @@
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\LABA3_OOP.csproj.AssemblyReference.cache
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\LABA3_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\LABA3_OOP.AssemblyInfoInputs.cache
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\LABA3_OOP.AssemblyInfo.cs
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\LABA3_OOP.csproj.CoreCompileInputs.cache
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\bin\Debug\net5.0\LABA3_OOP.exe
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\bin\Debug\net5.0\LABA3_OOP.deps.json
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\bin\Debug\net5.0\LABA3_OOP.runtimeconfig.json
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\bin\Debug\net5.0\LABA3_OOP.runtimeconfig.dev.json
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\bin\Debug\net5.0\LABA3_OOP.dll
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\bin\Debug\net5.0\ref\LABA3_OOP.dll
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\bin\Debug\net5.0\LABA3_OOP.pdb
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\LABA3_OOP.dll
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\ref\LABA3_OOP.dll
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\LABA3_OOP.pdb
+D:\угату\2_курс\ооп\laba#3\LABA3_OOP\obj\Debug\net5.0\LABA3_OOP.genruntimeconfig.cache
